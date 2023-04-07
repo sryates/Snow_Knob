@@ -3,8 +3,6 @@
 ### The goal, to give the largest possible thumb wheels for easier leveling.
 Better Knobs for Voron 0 and other Ants
 
-By Discord User ZeroKune#3471 AKA "Erebus V0.1471"
-
 After killing my thumbs for over a year (though not often), I decided my Voron 0 needed a better knob system that could fit within the space alloud.
 
 Recomended use for Kirigami Beds
@@ -26,3 +24,62 @@ why snow? Because winter is long and hard and it's still snowing in April and I 
 I recomend using a 0.2 MM feeler guage get the nozzle just to the point where it touches the guage but doesn't hop and slides under with only a small resistance.
 
 Enjoy!
+
+
+
+# Pictures
+
+## How it looks if you are an Ant
+<picture>
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/sryates/Snow_Knob/blob/main/docs/images/bottomview.png">
+</picture>
+
+# How us Giants see it
+
+<picture>
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/sryates/Snow_Knob/blob/main/docs/images/full_view.png">
+</picture>
+
+
+## Extra features.
+
+<picture>
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/sryates/Snow_Knob/blob/main/docs/images/cutaway%20view.png">
+</picture>
+
+
+
+### By Discord User ZeroKune#3471 AKA "Erebus V0.1471"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### You've gone way past the end stop scrolling there is nothing to see here.
+
