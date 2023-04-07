@@ -50,36 +50,3 @@ Enjoy!
 
 
 ### By Discord User ZeroKune#3471 AKA "Erebus V0.1471"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### You've gone way past the end stop scrolling there is nothing to see here.
-
