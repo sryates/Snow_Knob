@@ -3,11 +3,11 @@
 ### The goal, to give the largest possible thumb wheels for easier leveling.
 Better Knobs for Voron 0 and other Ants
 
-After killing my thumbs for over a year (though not often), I decided my Voron 0 needed a better knob system that could fit within the space alloud.
+After killing my thumbs for over a year (though not often), I decided my Voron 0 needed a better knob system that could fit within the space allowed.
 
 Recomended use for Kirigami Beds
 
-Once fitted they work as per normal no problems on the V0.2
+Once fitted they work as per-normal no problems on the V0.2
 
 # Introducing the Snow Knob.
 why snow? Because winter is long and hard and it's still snowing in April and I wanted to immortalize it. 
